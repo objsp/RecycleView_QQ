@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RecycleView_QQ</string>
+
+    <!-- 订单页面 -->
+    <string name="order_wait">待确认</string>
+    <string name="order_going">进行中</string>
+    <string name="order_finish">已完成</string>
+    <string name="order_nodata">暂无相关数据</string>
+    <string name="order_commcasus">常规护理</string>
+    <string name="order_price">88元</string>
+    <string name="order_buycount">购买次数：10次</string>
+    <string name="order_leftcount">剩余次数：10次</string>
+    <string name="order_address">上海市徐汇区</string>
+    <string name="loading">加载中</string>
+    <string name="cnum">400600800</string>
+
+</resources>
